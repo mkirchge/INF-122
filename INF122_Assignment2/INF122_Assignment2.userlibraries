@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jcommon-1.0.23">
+    <archive path="/Users/maxkirchgesner/Downloads/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" />
+  </library>
+  <library name="jfreechart-1.0.19">
+    <archive path="/Users/maxkirchgesner/Downloads/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" />
+  </library>
+</eclipse-userlibraries>
+

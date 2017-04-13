@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/INF122_Assignment2"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="INF122_Assignment2" value="project"/>
+		<level name="jfreechart-1.0.19" value="project"/>
+		<level name="jcommon-1.0.23" value="project"/>
+	</levels>
+</component>
